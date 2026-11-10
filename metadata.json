@@ -1,0 +1,6 @@
+{
+  "name": "EduAssess AI",
+  "description": "A university-level Probability and Statistics educational assessment platform featuring AI-generated quizzes, pedagogical feedback evaluation, and human teacher review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
